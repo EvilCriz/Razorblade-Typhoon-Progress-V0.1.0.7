@@ -1,0 +1,28 @@
+Items: {
+	RazorbladeTyphoonProgress: {
+		TitleDamageInfo: "[DAMAGE]:"
+		TitleSpeedInfo: "[ATTACK SPEED]:"
+		TitleCritInfo: "[CRITICAL STRIKE CHANCE]:"
+		TitleManaInfo: "[MANA COST REDUCTION]:"
+		TitlePenetrateInfo: "[ADDITIONAL PROJECTILE PIERCE]:"
+		TitleEffectsInfo: "[ADDITIONAL EFFECTS]:"
+		SwapPageTooltip:
+			'''
+			Page {0} of {1}
+			(Switch pages with right-click on the item)
+			'''
+		LevelInfo:
+			'''
+			Level {0} of {1}
+			Damage dealt: {2} of {3}
+			'''
+		EffectsInfo: When using the item, the character gains the {0} effect,
+		EffectsNPCInfo: When damaged by this item, NPCs receive the {0} effect,
+		EffectsIsUseKeyInfo: "{$Items.RazorbladeTyphoonProgress.EffectsInfo} (Toggle using hotkey)"
+		EffectsIsNoCollideInfo: Projectiles from this weapon pass through blocks,
+		Open: "[OPEN]:"
+		Close: "[CLOSE]:"
+		Maximum: "[MAXIMUM]"
+		DisplayName: Razorblade Typhoon,
+	}
+}

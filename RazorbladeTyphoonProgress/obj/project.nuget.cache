@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ByV/aNY6xvWUSlQGysrPUq4ew/6/YEd9xWDPZnOoK0xU6cxZpTFB8wmpNeLsHRRXzSE5qDqt3w7ogR6dpUTNcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\RazorbladeTyphoonProgress\\RazorbladeTyphoonProgress.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

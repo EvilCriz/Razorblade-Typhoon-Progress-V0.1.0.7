@@ -1,0 +1,45 @@
+Description of the mod is written in English and Russian (see below)
+The mod itself is also localized in Russian and English.
+Описание мода написано на английском и русском языках (см. ниже)
+Cам мод так же локализован на русский и английские языки.
+
+***
+
+The Razorblade Typhoon is one of the most powerful magical weapons in Terraria. 
+In the game, a Razorblade Typhoon is introduced, which players can create at the start of the game, but the weapon is significantly weakened initially. 
+Players can enhance its power by dealing damage with the weapon throughout the game. 
+The item's description displays the current progress and requirements for improvement.
+
+Here's how it works: By crafting the item (recipe: 3 Fallen Stars, 6 Iron Bars), 
+you can right-click on the item in your inventory to toggle the attribute you want to improve:
+
+1. **Damage**
+2. **Attack Speed**
+3. **Critical Strike Chance**
+4. **Mana Consumption**
+5. **Number of Maximum Hits per Projectile**
+6. **Additional Effects** (e.g., attacks with Ichor, projectiles passing through walls, etc.)
+
+With each new level, the required amount of damage (for the specific attribute) will increase in a geometric progression. 
+The initial required damage and the rate of increase will vary significantly depending on the attribute. 
+The mod also alters the item and projectile sprites. Enjoy your game! :)
+
+***
+
+Бритвенный тайфун - это одно из сильнейших магических оружий в Террарии.
+В игру добавлен Бритвенный тайфун, который вы сможете создать на старте игры, но это оружие будет ослаблено в сотни раз.
+Вы можете его улучшать его по ходу игры, просто нанося урон данным оружием.
+В описании предмета будет показан ваш текущий прогресс и требования для улучшения.
+
+Как это работает? Создав предмет (крафт: 3 упавшие звезды, 6 железных слитка),
+нажатием ПКМ по предмету в инвентаре, вы переключаете характеристику, которые хотите улучшать:
+1. Урон.
+2. Скорость атаки.
+3. Шанс крит. урона.
+4. Потребление маны.
+6. Количество максимальных ударов одним снарядом.
+5. Дополнительные эффекты (например: атаки с Ихором, прохождение снарядов сквозь стены и т.д.)
+
+С каждым новым уровнем требуемое количество урона (для данной характеристики) будет повышаться в геометрической прогрессии.
+В зависимости от характеристики, начальное требуемое кол-во урона и скорость прироста требуемого урона будет сильно различаться.
+Мод также изменяет спрайт предмета и снаряда. Хорошей игры:)
