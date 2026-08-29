@@ -1,5 +1,3 @@
-https://ko-fi.com/evilcriz
-
 Description of the mod is written in English and Russian (see below)
 The mod itself is also localized in Russian and English.
 Описание мода написано на английском и русском языках (см. ниже)
